@@ -1,0 +1,1 @@
+{"name":"sending-records-devtools-typescript","version":"1.0.0","private":true,"type":"module","scripts":{"start":"tsx src/publish_records.ts","test":"tsx test/publish_records.test.ts","typecheck":"tsc --noEmit"},"dependencies":{"zod":"^3.23.8"},"devDependencies":{"tsx":"^4.19.1","typescript":"^5.6.3","@types/node":"^22.0.0"}}
